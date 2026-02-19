@@ -1,0 +1,21 @@
+Book_ID,Title,Author,Genre,Pages,Rating
+1,The Great Book,John Doe,Fiction,350,4.5
+2,Python for All,Jane Smith,Educational,400,4.7
+3,Data Science,Tom White,Educational,450,4.8
+4,AI Revolution,Emily Brown,Technology,320,4.2
+5,Machine Learning,Michael Green,Technology,500,4.9
+6,The Mystery,George Black,Fiction,280,3.8
+7,Philosophy 101,Anna Blue,Educational,350,4.3
+8,Modern Art,Laura White,Art,300,4.1
+9,History Unfolds,John Green,History,270,4.0
+10,Science Wonders,James Red,Science,500,4.6
+11,Deep Learning,Susan Blue,Technology,450,4.7
+12,The Lost City,David Gold,Adventure,390,4.4
+13,Blockchain Basics,Robert Gray,Technology,420,4.5
+14,Quantum Mechanics,Peter White,Science,360,4.3
+15,The Silent Forest,Linda Brown,Adventure,330,4.0
+16,Art of War,Steve Blue,History,300,4.7
+17,Cybersecurity Essentials,Mary Green,Technology,470,4.8
+18,The Secret Garden,Kate Black,Fiction,320,3.9
+19,Philosophy of Mind,James White,Educational,390,4.2
+20,The Big Picture,Susan White,Self-Help,250,4.0
